@@ -19,9 +19,9 @@ runt的了解，只停留在知道的阶段。
 [gulp详细入门教程](http://www.ydcss.com/archives/18)
 
 通过仔细阅读实践上面四个教程，对webpack和gulp有一些了解，然后进入重构。重构过程中，遇到不懂
-得问题，回过头继续看教程。
+的问题，回过头继续看教程。
 
-#### 其他教程，找时间继续学习。 ####
+#### 其他教程，找时间继续学习: ####
 
 [webpack 资料整理](https://github.com/xiaoyu2er/awesome-webpack "webpack 资料整理")
 
