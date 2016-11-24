@@ -6,8 +6,7 @@ runt的了解，只停留在知道的阶段。
 
 一开始接到这个任务我内心是拒绝的，因为重构在印象里就是繁琐的，而且对webpack和gulp不是很了解
 。后来转念一想，朝着抵抗力最大的路，刚好趁这个机会对webpack和gulp进行深入的学习。
-
-
+<br/>
 #### 下面此次学习收集到的gulp和webpack教程链接：  ####
 
 [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
@@ -17,9 +16,12 @@ runt的了解，只停留在知道的阶段。
 [webpack构建多页应用-动态页面](https://github.com/vhtml/webpack-MultiplePage)
 
 [gulp详细入门教程](http://www.ydcss.com/archives/18)
+<br/>
 
-通过仔细阅读实践上面四个教程，对webpack和gulp有一些了解，然后进入重构。重构过程中，遇到不懂
-的问题，回过头继续看教程。
+> 通过仔细阅读和实践上面四个教程，对webpack和gulp有一些了解，然后进入重构。重构过程中，遇到
+> 不懂的问题，回过头继续看教程。
+
+<br/>
 
 #### 其他教程，找时间继续学习: ####
 
