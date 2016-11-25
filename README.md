@@ -36,3 +36,6 @@ runt的了解，只停留在知道的阶段。
 
 [webpack学习总结](https://github.com/diamont1001/webpack-summary)
 
+[webpack博文--阿城的blog](http://qiutc.me/tags/#webpack)
+
+[webpack教程--fakefish](https://fakefish.github.io/react-webpack-cookbook/index.html)
