@@ -26,7 +26,7 @@ runt的了解，只停留在知道的阶段。
 
 <br/>
 
-其他教程，找时间继续学习: 
+其他教程，找时间继续学习:
 
 [webpack 资料整理](https://github.com/xiaoyu2er/awesome-webpack "webpack 资料整理")
 
@@ -39,3 +39,5 @@ runt的了解，只停留在知道的阶段。
 [webpack博文--阿城的blog](http://qiutc.me/tags/#webpack)
 
 [webpack教程--fakefish](https://fakefish.github.io/react-webpack-cookbook/index.html)
+
+For test
