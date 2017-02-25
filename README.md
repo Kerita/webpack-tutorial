@@ -8,7 +8,6 @@ runt的了解，只停留在知道的阶段。
 。后来转念一想，朝着抵抗力最大的路，刚好趁这个机会对webpack和gulp进行深入的学习。
 
 <br/>
-
 ### 下面此次学习收集到的gulp和webpack教程链接：
 <br/>
 
@@ -26,7 +25,7 @@ runt的了解，只停留在知道的阶段。
 
 <br/>
 
-其他教程，找时间继续学习:
+其他教程:
 
 [webpack 资料整理](https://github.com/xiaoyu2er/awesome-webpack "webpack 资料整理")
 
